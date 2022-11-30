@@ -1,7 +1,5 @@
-Hi, I’m Isaiah
+This is a simple Minecraft script to mine blocks automatically.
 
-I'm studying Cybersecurity and learning python.
+I mainly use this on Skyblock to mine cobblestone. But feel free to use how you want!
 
-Fluent in HTML(5) & JS
-
-Autonomy is the future.
+I made this with AutoHotKey so your likely not going to be banned but I'm not liable if you are :)
